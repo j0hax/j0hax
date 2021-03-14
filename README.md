@@ -11,5 +11,3 @@
 🌐 Fluent in English and German
 
 ❤️ Linux/BSD, FOSS & 3D Printing
-
-* Sponsor my work (XMR): `894mgCpTN5yQumfyfeQpMHWGsUfe9eMyCf52JsgKC6v95Pep5FxDdhEjkHdWio7YD88TAqwRk69mLauTNaGBMsvWKNVLrKq`
