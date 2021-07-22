@@ -1410,13 +1410,13 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 22 Jul 2021 19:22:55 (timezone Europe/Amsterdam) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 22 Jul 2021 20:16:56 (timezone Europe/Amsterdam) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
