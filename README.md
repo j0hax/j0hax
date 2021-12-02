@@ -17,9 +17,13 @@ _* does not imply skill_
 
 ## Services
 
-- I am happy to help as an English-German translator for open source projects
+- I am happy to assist as an English-German translator for open source projects!
 
 ## Contact me
 
 - Follow me on [Mastodon](https://koyu.space/@j0hax)
 - Shoot me an [email](mailto:johannes.arnold@stud.uni-hannover.de)
+
+<div style="text-align:center;">
+<img src="1F1E9-1F1EA.svg" alt="Germany" style="display: block;" width="128"><img src="1F37B.svg" alt="Beers" style="display: block;" width="128"><img src="1F3F4-E0075-E0073-E0074-E0078-E007F.svg" alt="Texas" style="display: block;" width="128">
+</div>
