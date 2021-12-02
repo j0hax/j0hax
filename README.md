@@ -13,11 +13,11 @@ _About me:_
 - Typography
 - Functional programming
 
-_* does not imply skill_
+_* does not imply skills_
 
 ## Services
 
-- I am happy to assist as an English-German translator for open source projects!
+- I am happy to assist as an English-German translator for open source projects! For inquiries, please send me an email.
 
 ## Contact me
 
