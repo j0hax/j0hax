@@ -17,12 +17,16 @@ _* does not imply skills_
 
 ## My Past University Projects
 
+These are select university projects that I found particularly fun.
+
 | Institute / Group                                                         | Repo                                        | Language | Description                                                            |
 |---------------------------------------------------------------------------|---------------------------------------------|----------|------------------------------------------------------------------------|
 | [Human-Computer-Interaction Group](https://www.pi.uni-hannover.de/de/hci) | [mau-mau](https://github.com/j0hax/mau-mau) | Java     | GUI Multiplayer Card Game                                              |
 | [Systems Research and Architecture](https://www.sra.uni-hannover.de/)     | [MPStuBS](https://github.com/j0hax/MPStuBS) | C++      | Implementation of an educational multicore operating system            |
 | [Department of real-time systems](https://www.ise.uni-hannover.de/de/rts) | [Vision](https://github.com/j0hax/vision)   | C++      | Robot Operating System module to detect signage using Lidar and OpenCV |
 | [Institute of Microelectronic Systems](https://www.ims.uni-hannover.de)   | [PPTI](https://github.com/j0hax/PPTI)       | C++      | "Programming Lab Technical Computer Science"                           |
+
+Please note that many were the result of pair-programming or group work. My participation can, of course, be seen in the respective git histories.
 
 ## Contact me
 
