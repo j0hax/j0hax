@@ -32,11 +32,11 @@ These are select university projects that I found particularly fun:[^pp]
 
 ### Projects Completed as a Student Assistant
 
-I am very lucky to have worked at the [Institute of Continuum Mechanics](https://www.ikm.uni-hannover.de/en/) doing IT Work. Select Projects were commisioned and subsequently open-sourced:
+I am very lucky to have worked at the [Institute of Continuum Mechanics](https://www.ikm.uni-hannover.de/en/) doing IT Work. Select Projects have been commisioned and are subsequently open-sourced:
 
 | Repo                                                                                                     | Languages           | Description                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| [check-dht](https://github.com/j0hax/check-dht), [check-dht](https://github.com/j0hax/check-dht)         | (Micro)Python       | Digital Humidity and Temperature monitoring via a Raspberry Pi Pico, fed into Nagios                                          |
+| [pico-dht](https://github.com/j0hax/pico-dht), [check-dht](https://github.com/j0hax/check-dht)         | (Micro)Python       | Digital Humidity and Temperature monitoring via a Raspberry Pi Pico, fed into Nagios                                          |
 | [docker-ikm-stack](https://github.com/j0hax/docker-ikm-stack)                                            | Dockerfile, Python  | Docker image for JupyterHub: ran as "docker-in-docker" with JupyterHub instance                                               |
 | [literaturdatenbank](https://github.com/j0hax/literaturdatenbank)                                        | PHP                 | Frontend for archiving scientific literature using CouchDB                                                                    |
 | [kaffee-server](https://github.com/j0hax/kaffee-server), [kaffee-ui](https://github.com/j0hax/kaffee-ui) | Python, HTML/CSS/JS | Coffee-Booking System with a REST API. Used to "buy" coffees from a tablet in the office and keep track of who owes how much. |
