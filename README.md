@@ -1,5 +1,7 @@
 # 🤠 Howdy
 
+[![#IchBinHanna](https://img.shields.io/badge/%23IchBin-Hanna-informational)](https://gist.github.com/j0hax/c0f389280a78f1287552a99eee37b502)
+
 _About me:_
 
 - 📚 Studying computer science
